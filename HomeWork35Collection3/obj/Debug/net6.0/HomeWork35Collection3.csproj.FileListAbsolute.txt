@@ -1,0 +1,15 @@
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\bin\Debug\net6.0\HomeWork35Collection3.exe
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\bin\Debug\net6.0\HomeWork35Collection3.deps.json
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\bin\Debug\net6.0\HomeWork35Collection3.runtimeconfig.json
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\bin\Debug\net6.0\HomeWork35Collection3.dll
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\bin\Debug\net6.0\HomeWork35Collection3.pdb
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.csproj.AssemblyReference.cache
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.AssemblyInfoInputs.cache
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.AssemblyInfo.cs
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.csproj.CoreCompileInputs.cache
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.dll
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\refint\HomeWork35Collection3.dll
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.pdb
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\HomeWork35Collection3.genruntimeconfig.cache
+E:\CSlight\HomeWork35Collection3\HomeWork35Collection3\obj\Debug\net6.0\ref\HomeWork35Collection3.dll
