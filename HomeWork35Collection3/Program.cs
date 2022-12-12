@@ -30,7 +30,7 @@ internal class Program
 
     static void InsertNumber(List<int> numberRow, string userInput)
     {
-        int number = CheckInput(userInput);
+        int number = ReadNumber(userInput);
 
         numberRow.Add(number);
 
@@ -44,7 +44,7 @@ internal class Program
         Console.WriteLine($"Сумма всех чисел равна {sum}\n");
     }
 
-    static int CheckInput(string userInput)
+    static int ReadNumber(string userInput)
     {
         int number;
 
